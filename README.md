@@ -14,11 +14,11 @@
 The objective of this project is to help people by giving them the updates about the weather of their nearby or desired location. This application will help people in various ways for example while travelling, trekking, future plans/projects etc..
 
 ## Key Activities
- **update regarding current weather conditon**
- **forecasts**
- **severe weather alerts**
- **radar and satellite imagery**
- **air quality reports**
+ **update regarding current weather conditon,**
+ **forecasts,**
+ **severe weather alerts,**
+ **radar and satellite imagery,**
+ **air quality reports,**
  **panning outdoor activities or travel.**
  
 
