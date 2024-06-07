@@ -19,7 +19,7 @@ The objective of this project is to help people by giving them the updates about
  **severe weather alerts,**
  **radar and satellite imagery,**
  **air quality reports,**
- **panning outdoor activities or travel.**
+ **planning outdoor activities or travel.**
  
 
 
